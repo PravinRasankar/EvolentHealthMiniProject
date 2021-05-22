@@ -1,0 +1,12 @@
+{
+  "contacts": [
+    {
+      "firstName": "pravin",
+      "lastName": "Rasankar",
+      "email": "pravinrasankar4@gmail.com",
+      "phoneNumber": "7985645656",
+      "status": "Active",
+      "id": 1
+    }
+  ]
+}
